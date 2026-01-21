@@ -24,7 +24,7 @@ async function doFill() {
     await page.goto('https://forms.zohopublic.in/Kalvium/form/Signup/formperma/GeJFMLBDfoWlIJfhI46Qyx0Dlf3kHhMSRsvMItq_Riw');
 
     await page.keyboard.press('Tab');
-    await page.keyboard.type('vijaykumar.r.s67@kalvium.community');
+    await page.keyboard.type('moulyaa.mohan.s67@kalvium.community');
 
     await new Promise(resolve => setTimeout(resolve, 2000));
     await page.keyboard.press('Tab');
