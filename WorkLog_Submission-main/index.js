@@ -24,7 +24,7 @@ async function doFill() {
     await page.goto('https://forms.zohopublic.in/Kalvium/form/Signup/formperma/GeJFMLBDfoWlIJfhI46Qyx0Dlf3kHhMSRsvMItq_Riw');
 
     await page.keyboard.press('Tab');
-    await page.keyboard.type('vijaykumar.r.s67@kalvium.community');
+    await page.keyboard.type('pavan.jadhav.s68.kalvium.community');
 
     await new Promise(resolve => setTimeout(resolve, 2000));
     await page.keyboard.press('Tab');
@@ -58,7 +58,7 @@ async function doFill() {
 
     await page.keyboard.press('Tab');
     await page.keyboard.press('Tab');
-    await page.keyboard.type('completing all the given tasks for the day');
+    await page.keyboard.type('completed the module work');
 
     await page.keyboard.press('Tab');
     await page.keyboard.press('Tab');
